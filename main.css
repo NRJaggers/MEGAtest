@@ -3,12 +3,16 @@ p{color: pink;}
 body{
       max-width: 100%;
       background-image: url(images/focal.png);
-      background-color: #490013 ; <!-- can use color codes or color names here for background -->
-
+      background-color: #490013; /* can use color codes or color names here for background */
+      font-family: 'Coiny', cursive;
     }
 a{
     color: darkred ;
+    text-decoration: none;
   }
 .link2{
         color: lightgreen ;
      }
+ul{
+    list-style-type: none;
+  }
